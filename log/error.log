@@ -1,0 +1,8 @@
+[Wed Jul 24 10:51:37.227882 2024] [wsgi:error] [pid 152745] [client 74.45.12.120:56497] Timeout when reading response headers from daemon process 'iconart': /var/www/webapps/icons/icons/wsgi.py
+[Wed Jul 24 10:56:22.399262 2024] [wsgi:error] [pid 152892] [client 74.45.12.120:57664] Timeout when reading response headers from daemon process 'iconart': /var/www/webapps/icons/icons/wsgi.py
+[Wed Jul 24 10:56:29.844477 2024] [wsgi:error] [pid 152896] [client 74.45.12.120:57701] Timeout when reading response headers from daemon process 'iconart': /var/www/webapps/icons/icons/wsgi.py
+[Wed Jul 24 10:59:22.637427 2024] [wsgi:error] [pid 152746] [client 74.45.12.120:58935] Truncated or oversized response headers received from daemon process 'iconart': /var/www/webapps/icons/icons/wsgi.py
+[Wed Jul 24 11:10:11.904249 2024] [wsgi:error] [pid 155429] [client 74.45.12.120:62225] Truncated or oversized response headers received from daemon process 'iconart': /var/www/webapps/icons/icons/wsgi.py
+[Wed Jul 24 11:10:11.904711 2024] [wsgi:error] [pid 155453] [client 74.45.12.120:62122] Truncated or oversized response headers received from daemon process 'iconart': /var/www/webapps/icons/icons/wsgi.py
+[Wed Jul 24 11:11:59.885433 2024] [wsgi:error] [pid 156411] [client 74.45.12.120:62446] Truncated or oversized response headers received from daemon process 'iconart': /var/www/webapps/icons/icons/wsgi.py
+[Wed Jul 24 11:19:52.773336 2024] [wsgi:error] [pid 156912] [client 5.164.29.116:56882] Truncated or oversized response headers received from daemon process 'iconart': /var/www/webapps/icons/icons/wsgi.py
