@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+<h2>A list of icons</h2>
+<p>{{ page.subtitle }}</p>
+{% for figure in figure_entries %}
+<h2>{{ figure.title }}</h2>
+<a href="{{ figure.url }}">Read More</a>
+{% endfor %}
+{% endblock %}
