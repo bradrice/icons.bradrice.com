@@ -1,5 +1,6 @@
 .env
-icons/wsgi.py
+manage.py
+/icons/wsgi.py
 *.swp
 *.pyc
 .DS_Store
