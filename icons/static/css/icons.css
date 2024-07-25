@@ -39,3 +39,8 @@ header {
   max-wdith: 400;
   max-height: 600;
 }
+
+.figureblock {
+  border-bottom: 2px dotted;
+  padding-bottom: 1em;
+}

@@ -1,7 +1,7 @@
 services:
   web:
     build: .
-    command: tail -f /dev/nuld
+    command: tail -f /dev/null
     volumes:
       - ./:/app
     ports:
