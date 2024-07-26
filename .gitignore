@@ -1,8 +1,9 @@
 .env
 manage.py
+db.sqlite3
+db.sqlite3.bak
 /icons/wsgi.py
 /media/
-db.sqlite3
 *.swp
 *.pyc
 .DS_Store
