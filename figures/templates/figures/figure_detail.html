@@ -9,7 +9,7 @@
 {% endif %}
 <h2>{{ page.subtitle }}</h2>
 <div class="figure">
-  {% image page.image width-400 %}
+  {% srcset_image page.image width-{480,780,1000} sizes="(max-width: 480px) 800px, 80vw" %}
 </div>
 <p>{{ page.body |richtext}}</p>
 {% endblock %}
