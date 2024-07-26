@@ -1,6 +1,8 @@
 .env
 manage.py
 /icons/wsgi.py
+/media/
+db.sqlite3
 *.swp
 *.pyc
 .DS_Store
