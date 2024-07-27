@@ -25,6 +25,7 @@ class FigureDetail(Page):
     parent_page_types = ['FigureIndex']
     subtitle = models.CharField(max_length=255, blank=True)
     gallery_number = models.IntegerField(blank=True, null=True)
+    media_type = models.CharField(max_length=255, blank=True)
     body = RichTextField(blank=True)
     image = models.ForeignKey(
         get_image_model(),
@@ -38,6 +39,7 @@ class FigureDetail(Page):
     content_panels = Page.content_panels + [
         FieldPanel('subtitle'),
         FieldPanel('gallery_number'),
+        FieldPanel('media_type'),
         FieldPanel('body'),
         FieldPanel('image'),
     ]

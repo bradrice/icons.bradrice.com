@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "wagtail.contrib.settings",
+    "wagtail.contrib.frontend_cache",
     "base",
     "figures",
 ]

@@ -2,8 +2,8 @@
 manage.py
 db.sqlite3
 db.sqlite3.bak
-/icons/wsgi.py
-/media/
+icons/wsgi.py
+media/
 *.swp
 *.pyc
 .DS_Store
